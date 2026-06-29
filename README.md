@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0704-binary-search) |
 ## Math
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
