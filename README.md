@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
