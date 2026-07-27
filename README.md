@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0986-interval-list-intersections) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0986-interval-list-intersections) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0724-find-pivot-index) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
