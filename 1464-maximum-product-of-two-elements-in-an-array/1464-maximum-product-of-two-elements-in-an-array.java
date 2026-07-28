@@ -1,17 +1,21 @@
 class Solution {
-    
-      public int maxProduct(int[] arr) {
-          Arrays.sort(arr);
 
-          int firstMax = arr[arr.length-1] - 1;
-          int secondMax = arr[arr.length - 2] - 1;
 
-          int ans = firstMax*secondMax;
+    public int maxProduct(int[] arr){
 
-          return ans ;
+           int firstMax = Integer.MIN_VALUE;
+           int secondMax = Integer.MIN_VALUE;
 
-    }
-
+           for (int num: arr){
+               if(num>firstMax){
+                   secondMax = firstMax;
+                   firstMax = num;
+               }else if(num > secondMax ){
+                   secondMax = num;
+               }
+           }
+           return (secondMax-1)*(firstMax-1);
+   }
 
 
 }
