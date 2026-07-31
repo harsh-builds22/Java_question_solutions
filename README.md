@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0680-valid-palindrome-ii) |
