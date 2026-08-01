@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0680-valid-palindrome-ii) |
