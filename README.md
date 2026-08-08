@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0986-interval-list-intersections) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1672-richest-customer-wealth) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
