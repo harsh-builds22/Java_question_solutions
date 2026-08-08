@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1672-richest-customer-wealth) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
