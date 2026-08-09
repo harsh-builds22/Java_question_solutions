@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1009-complement-of-base-10-integer) |
@@ -144,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
