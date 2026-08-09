@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1009-complement-of-base-10-integer) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Binary Search
 |  |
 | ------- |
