@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0476-number-complement) |
