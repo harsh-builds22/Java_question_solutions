@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0986-interval-list-intersections) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1672-richest-customer-wealth) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0342-power-of-four) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
