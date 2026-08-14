@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1672-richest-customer-wealth) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2352-equal-row-and-column-pairs](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2352-equal-row-and-column-pairs](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/harsh-builds22/Java_question_solutions/tree/master/1672-richest-customer-wealth) |
+| [2352-equal-row-and-column-pairs](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
