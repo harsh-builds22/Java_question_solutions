@@ -10,12 +10,12 @@ class Solution {
 
     public int bitLength(int n) {
 
-        int count = 0;
+        int countlength = 0;
         while (n > 0) {
             n = n >> 1;
-            count++;
+            countlength++;
         }
-        return count;
+        return countlength;
     }
 
 }
