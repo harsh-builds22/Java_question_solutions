@@ -1,7 +1,7 @@
 class Solution {
     public int equalPairs(int[][] grid) {
 
-        int count = 0;
+        int countvalue = 0;
         //  ye loop sari rows tak jayega
         for (int i = 0; i < grid.length; i++) {
             // isme individual rows ke elements save honge.
@@ -18,11 +18,11 @@ class Solution {
                     collist.add(grid[k][c]);
                 }
                 if (rowList.equals(collist)) {
-                    count++;
+                    countvalue++;
                 }
             }
         }
-        return count;
+        return countvalue;
     }
 
 }
