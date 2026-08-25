@@ -14,14 +14,14 @@ class Solution {
     }
 
     public int countEven(int n) {
-        int count = 1;
+        int counts = 1;
         while (n > 0) {
             int last = n & 1;
             n = n >> 1;
             if (last == 0) {
-                count++;
+                counts++;
             }
         }
-        return count;
+        return counts;
     }
 }
