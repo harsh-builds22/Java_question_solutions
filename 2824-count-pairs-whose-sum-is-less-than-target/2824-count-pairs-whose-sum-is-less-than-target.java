@@ -6,17 +6,17 @@ class Solution {
         int i = 0;
         int j = nums.size() - 1;
 
-        int count = 0;
+        int counts = 0;
         while (i < j) {
             int sum = nums.get(i) + nums.get(j);
             if (sum < target) {
-                count = count + (j - i);
+                counts = counts + (j - i);
                 i++;
 
             } else {
                 j--;
             }
         }
-        return count;
+        return counts;
     }
 }
