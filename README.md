@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/harsh-builds22/Java_question_solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/harsh-builds22/Java_question_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
