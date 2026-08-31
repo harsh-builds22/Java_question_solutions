@@ -3,8 +3,8 @@ class Solution {
         int sum = 0;
 
         //  sum of array
-        for (int i = 0; i < arr.length; i++) {
-            sum = arr[i] + sum;
+        for (int k = 0; k < arr.length; k++) {
+            sum = arr[k] + sum;
         }
 
         int right = 0;
